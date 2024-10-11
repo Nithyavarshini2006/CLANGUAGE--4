@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int a=178;
+    int b=78;
+    
+    int c;
+    c=ab;
+    printf(" sum:%d",c);
+
+    return 0;
+}
