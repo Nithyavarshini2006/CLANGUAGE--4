@@ -1,0 +1,19 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+int a,b,c,d,e,f;
+printf (" enter the a:");
+scanf ("%d",&a);
+printf ("enter the b:");
+scanf("%d",&b);
+  c=a+b;
+  d=a-b;
+  e=a*b;
+  f=a/b;
+  printf ("\n addition of two numbers:%d",c);
+  printf (" \n subraction of twe numbers:%d",d);
+  printf (" \n multipication of two nembers:%d",e);
+  printf (" \n divition of two numbers:%d",f);
+    return 0;
+}
